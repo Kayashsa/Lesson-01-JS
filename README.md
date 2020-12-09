@@ -1,4 +1,4 @@
-!(https://github.com/Kayashsa/Lesson-01-JS/raw/{main}/{additional}/1.gif)
+![](additional/1.gif)
 # Задание:
 - [ ] В файле script.js создать переменную myButton
 - [ ] В файле script.js  получить DOM-объект <button> из index.html и присвоить его значение переменной myButton
