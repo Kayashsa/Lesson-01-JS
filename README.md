@@ -4,7 +4,7 @@
 - [ ] На полученный DOM-объект повесить обработчик события click (нажатие) с помощью addEventListener
 - [ ] По нажатию на <button> вывести в консоли сообщение «Кнопка нажата»
 
-#Материалы для изучения:
+# Материалы для изучения:
 - https://learn.javascript.ru/structure
 - https://learn.javascript.ru/variables
 - https://learn.javascript.ru/dom-nodes
